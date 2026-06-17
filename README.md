@@ -1,3 +1,4 @@
+
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
@@ -101,7 +102,3 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
 ---
-
-## 🛡️ License
-
-This project is based on the Data Warehouse Project by Data With Baraa, licensed under the [MIT License](LICENSE).
